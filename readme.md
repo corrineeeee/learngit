@@ -1,5 +1,3 @@
 git is a version control system.
 git is free software.
-corrine change mode 1.
-corrine change mode 2.
-corrine change mode 3 for github.
+### 一些自己在学习git时候遇到的问题
